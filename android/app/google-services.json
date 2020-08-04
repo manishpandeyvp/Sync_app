@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "389403504639",
+    "firebase_url": "https://sync-app-13384.firebaseio.com",
+    "project_id": "sync-app-13384",
+    "storage_bucket": "sync-app-13384.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:389403504639:android:e1b5d9175f476b61cb01ca",
+        "android_client_info": {
+          "package_name": "com.mainshpandeyvp.syncapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "389403504639-gklaeclf4jjsqcirq57vjal4862t1m8b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqR5c2_M-KmGTHTRGRICp5fZabqAj7CFI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "389403504639-gklaeclf4jjsqcirq57vjal4862t1m8b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
